@@ -1,1 +1,36 @@
 # axiom-dev
+Hey, I’m Alex 👋
+
+Python developer focused on backend development, automation, machine learning, and computer vision.
+
+What I Build
+
+* Python automation
+* Django & Flask applications
+* REST APIs
+* Computer vision systems
+* Neural networks
+* Data processing tools
+* Socket-based applications
+
+Featured Projects
+
+🔹 Real-Time Camera & Motion Detection
+Python + OpenCV + Flask + socket programming for real-time camera streaming and motion detection.
+
+🔹 Django CRM
+A database-driven CRM with authentication, sessions, CRUD functionality, and account management.
+
+🔹 Email Subscription Tracker
+A Django/Python system for processing email information and tracking subscription data.
+
+🔹 Neural Network
+A Python machine-learning project involving data preprocessing, neural-network training, and predictions.
+
+Currently Learning
+
+Python • Django • JavaScript • Machine Learning
+
+⸻
+
+Building projects and improving my skills through hands-on development.
