@@ -1,36 +1,26 @@
-# axiom-dev
-Hey, I’m Axiom 👋
+# Hi, I'm Axiom
 
-Python developer focused on backend development, automation, machine learning, and computer vision.
+I'm a 14-year-old aspiring software engineer focused on Python, backend development, automation, machine learning, and computer vision.
 
-What I Build
+I enjoy building projects, solving problems, and learning how software works under the hood.
 
-* Python automation
-* Django & Flask applications
-* REST APIs
-* Computer vision systems
-* Neural networks
-* Data processing tools
-* Socket-based applications
+### What I Work With
 
-Featured Projects
+* Python
+* Django & Flask
+* JavaScript
+* OpenCV
+* APIs
+* Neural Networks
+* Socket Programming
+* JSON & CSV
 
-🔹 Real-Time Camera & Motion Detection
-Python + OpenCV + Flask + socket programming. Real-time camera streaming with motion detection and event handling.
+### Featured Projects
 
-🔹 Django CRM
-A database-driven CRM with authentication, sessions, CRUD functionality, and account management.
+* Real-Time Camera & Motion Detection
+* Django CRM
+* Email Subscription Tracker
+* Neural Network
 
-🔹 Email Subscription Tracker
-A Django/Python system that processes email information and tracks subscription data.
+Currently learning more about software engineering, backend development, and machine learning.
 
-🔹 Neural Network
-A Python machine-learning project involving data preprocessing, neural-network training, and predictions.
-
-Currently Learning
-
-Python • Django • JavaScript • Machine Learning
-
-⸻
-
-Building projects, solving problems, and getting better at this whole programming thing one bug at a time.
