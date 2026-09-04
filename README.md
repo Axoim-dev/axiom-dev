@@ -19,7 +19,7 @@ I enjoy building projects, solving problems, and learning how software works und
 
 * Real-Time Camera & Motion Detection
 * Django CRM
-* Email Subscription Tracker
+* Email Subscription Tracker(In progress)
 * Neural Network
 
 Currently learning more about software engineering, backend development, and machine learning.
